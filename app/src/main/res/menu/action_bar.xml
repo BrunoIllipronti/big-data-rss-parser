@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/refresh"
+        android:icon="@drawable/refresh"
+        android:title="@string/refresh"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/feed1"
+        android:title="@string/feed1"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/feed2"
+        android:title="@string/feed2" />
+
+    <item
+        android:id="@+id/feed3"
+        android:title="@string/feed3" />
+
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Big Data RSS</string>
+    <string name="refresh">Refresh</string>
+    <string name="feed1">KDNuggets</string>
+    <string name="feed2">Analytics Vidhya</string>
+    <string name="feed3">Yoda Learning</string>
+    <string name="img">Img Desc.</string>
+</resources>
